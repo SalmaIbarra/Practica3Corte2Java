@@ -9,7 +9,7 @@ public class ItemData {
         this.txtMatricula = text2;
         this.imageId =imageId;
     }
-//Item Alumno
+//Item
     public String getTxtNombre() {
         return txtNombre;
     }
