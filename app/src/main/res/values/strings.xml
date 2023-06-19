@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">Practica03Corte02</string>
-
+//Alumnos
 
     <string name="itemEstefano">MORUA ZAMUDIO ESTEFANO</string>
     <string name="itemCarlosAlberto">CARRANZA JAUREGUI CARLOS ALBERTO</string>
@@ -34,7 +34,7 @@
     <string name="itemJoseAlberto">BARRON VARGAS JOSE ALBERTO</string>
     <string name="itemGiancarlo">MARTIN IBARRA GIANCARLO</string>
     <string name="itemLuisAngel">SANCHEZ OCEGUEDA LUIS ANGEL</string>
-
+//Matriculas
 
     <string name="msgEstefano">2019030344</string>
     <string name="msgCarlosAlberto">2020030174</string>
